@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PDub75 and probably best described as a Business Analyst/Project Manager. 
+- 👋 Hi, I’m @PDub75 and probably best described as a Business Analyst/Project Manager/Citizen Programmer. 
 - 👀 I’m interested in AI, RPA, Video, Drones, Running.  
 - 🌱 I’m currently learning more about AI/ML, Power BI, Power Automate, Midjourney (amongst other areas)
 - 💞️ I’m looking to collaborate on AI Business Apps that solve an existing problem, UX and Workflows are important to me.  
